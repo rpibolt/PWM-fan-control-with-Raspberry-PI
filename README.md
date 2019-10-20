@@ -1,6 +1,9 @@
 # PWM-fan-control-with-Raspberry-PI
 Control Fan-4020-PWM-5V by Raspberry PI hardware PWM signal on GPIO18.
 
+Fan connection:
+    Black -> GND; Red -> Vcc; Blue -> Tach; Yellow -> PWM
+
 These Raspberry PI configuration based on https://jumpnowtek.com/rpi/Using-the-Raspberry-Pi-Hardware-PWM-timers.html document.
 
 Step-by-step setting
