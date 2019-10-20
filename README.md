@@ -8,4 +8,4 @@ Step-by-step setting
 1, Enable hardware PWM in /boot/config.txt file
 2, Connect the PWM-FAN to Raspberry PI
 3, Run the Code.
-  The code read the CPU temp and set the FAN RPM 
+  The code read the CPU temp and set the FAN RPM
